@@ -2,7 +2,6 @@
 <h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wenell09&label=Profile%20views&color=0e75b6&style=flat" alt="wenell09" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wenell09" alt="wenell09" /></a> </p>
 
 - 🎯 I’m currently learning **Flutter**
 
@@ -38,7 +37,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wenell09&show_icons=true&locale=en&layout=compact" alt="wenell09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wenell09&show_icons=true&locale=en" alt="wenell09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wenell09&" alt="wenell09" /></p>
