@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, My name is Nabil</h1>
-<h3 align="center">Flutter Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wenell09&label=Profile%20views&color=0e75b6&style=flat" alt="wenell09" /> </p>
-
-- 🎯 focus on becoming a **flutter developer expert**
-
+<h1 align="center">Nabil Al Faatir – Mobile App Developer</h1>
+<h3 align="center">Mobile Application Developer specializing in Flutter</h3>
+<p align="center">
+Flutter Developer focused on building modern, scalable, and high-performance mobile applications using Flutter and Dart.
+</p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=wenell09&label=Profile%20views&color=0e75b6&style=flat" alt="wenell09" />
+</p>
+- 🎯 Currently focusing on becoming a Flutter Developer Expert
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
